@@ -5,6 +5,8 @@ DOS attack is a type of attack that causes a complete or partial system outage. 
 
 <h2>Installation</h2>
 To commit  with this project you have to install NS-2
+<br>
+In ubuntu terminal enter: sudo apt-get install ns2
 
 <h2>Process</h2>
 To run this project you have to modify the dos files that sent to target nodes to specify the number of target nodes. After sending the dos.tcl files you can run the project using ns-2 package by entering the "ns dos.tcl" in the ns2 command prompt.
